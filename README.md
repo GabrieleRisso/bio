@@ -3,19 +3,21 @@
  #bio
 
  <div align="center">
- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+ <h2> Buongiorno cari <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
  </div>
 
 
 
  <div align="center">
 
- Eccoti il mio profilo github. <br>
-Sei libero di clonare/forkare i progetti, sollevare problemi. <br>
- Ask me anything <a href="https://github.com/GabrieleRisso/GabrieleRisso/issues/new"><b>here</b></a><br>
- or <a href="mailto:gabriele.risso502@gmail.com"><b>email</b></a> me.
+Siete finiti sul mio profilo github, ben fatto!. <br>
+Sono [![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-square&logo=microgenetics&logoColor=white)]
 
- <i>Buona codata!</i> 😊
+ <br>
+  Sei libero di farmi una domanda <a href="https://github.com/GabrieleRisso/GabrieleRisso/issues/new"><b>qui</b></a><br>
+ oppure tramite <a href="mailto:gabriele.risso502@gmail.com"><b>email</b></a> 
+
+
 
  </div>
 
@@ -31,97 +33,36 @@ Sei libero di clonare/forkare i progetti, sollevare problemi. <br>
 
  [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
- <i>Follow me around the web:</i><br>
 
-   #<!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-   <a target="_blank" href="https://www.instagram.com/gabriele_risso/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-   #<a target="_blank" href="https://www.facebook.com/ga/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-   <a target="_blank" href="https://open.spotify.com/user/gabriele risso">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-   #<a target="_blank" href="https://dev.to/ABSphr">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
-
- <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- <a href="https://www.instagram.com/gabriele_risso" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
- #<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
- <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
- <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
- </div>
-
- <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/gabriele risso) -->
-
- <!--
-
-
- Here are some ideas to get you started:
-
- - 🔭 I’m currently working on ...
- - 🌱 I’m currently learning ...
- - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ...
- - 💬 Ask me about ...
- - 📫 How to reach me: ...
- - 😄 Pronouns: ...
- - ⚡ Fun fact: ...
- -->
-
-
-
-
-
- # :tada: :house: :star2: Welcome to br3ndonland :muscle: :nerd_face: :coffee:
 
 [![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+[![Specie](https://img.shields.io/badge/Specie-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-[![My job](https://img.shields.io/badge/My%20job-intelliatx-success?style=flat-square&logo=microgenetics&logoColor=white)](https://www.intelliatx.com/crisprcas9/)
-[![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/br3ndonland/R-proteomics-Nrf1)
+[![My job](https://img.shields.io/badge/My%20job-studente-Politecnico-di-Torino-success?style=flat-square&logo=microgenetics&logoColor=white)](https://www.polito.it/)
+[![Science is my jam](https://img.shields.io/badge/My%20jam-scienza-e-tecnologia-critical?style=flat-square&logo=electron&logoColor=white)]()
 
-[![Website](https://img.shields.io/badge/Website-br3ndonland.github.io-informational?style=flat-square&logo=jekyll&logoColor=white)](https://br3ndonland.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/br3ndonland/)
+[![ChessStats](https://img.shields.io/badge/ChessStats-GabrieleRisso.lichess.BulletKing--informational?style=flat-square&logo=jekyll&logoColor=white)](https://lichess.org/@/GabrieleRisso/perf/bullet/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrieleRisso-informational?style=flat-square&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/gabriele-risso-0b1a03166)
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 
-[![Keybase PGP: personal](https://img.shields.io/badge/pgp%20personal-AC66384CFA8C69B0-blue?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
-[![Keybase PGP: Intellia Therapeutics](https://img.shields.io/badge/pgp%20intelliatx-DD2873AD02308B27-blue?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6615-8677)
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=linux&logoColor=white)](https://wiki.archlinux.org)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-VIM-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.vim.com/)
 [![Dotfiles](https://img.shields.io/badge/Setup_-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/br3ndonland/dotfiles)
 [![Brewfile](https://img.shields.io/badge/Apps-Brewfile-blue?style=flat-square&logo=ruby&logoColor=white)](https://github.com/br3ndonland/homebrew-brewfile)
 
 [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Vue](https://img.shields.io/badge/JavaScript_framework-Vue-success?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
 
 
-## Hey 👋, I'm Rahul Jha!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
-<br/>
-<br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-
-<br>
 
 ### Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="32px"/> </a>
@@ -148,3 +89,70 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
  </a>
+
+
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
+ <!-- Your badges -->
+ [![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/GabrieleRisso)
+ [![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma)
+ [![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/GabrieleRisso)
+
+ [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
+ [![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrile.risso502@gmail.com)
+
+ <!-- Profile View Count -->
+ ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
+ [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
+
+ <!-- Working GIF -->
+ <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
+
+
+
+
+  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ <p> <!-- GitHub README Stats -->
+   <a href="https://github.com/JoykishanSharma?tab=repositories">
+     <img width="500" height="auto" align="right" alt="Joykishan's github stats"
+          src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
+    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+ NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+   </a>
+  <!-- icons -->
+ <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
+ <code><a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a></code>
+ <code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
+ <code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
+ <br>
+ <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
+ <code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
+ <code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+ <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
+ <code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png"></a></code>
+ <br>
+ <code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
+ <code><a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
+ <code><a href = "https://www.jetbrains.com/rider/"><img height="40" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"></a></code>
+ <br>
+ <code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
+ <code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
+ <code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
+ <br>
+ <code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
+ <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
+ <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
+ <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
+ <br>
+ <code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png"></a></code>
+ <code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
+
+ </p>
+
+ <h4 align="center"> Thanks for Visiting!:innocent:</h4>
+
+ <!-- Credit -->
+ ### Credit to
+ - [**GIPHY**](https://giphy.com/) for GIFs.
