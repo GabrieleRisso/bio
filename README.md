@@ -26,12 +26,18 @@ Sono ![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieleRisso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GabrieleRisso's Github Stats">
 
  </br>
- <img src="https://www.decifris.it/logo_colore.jpg" width="25px"> membro di DE COMPONENDIS CIFRIS, comunità crittografica Italiana. 
+ <img src="https://www.decifris.it/logo_colore.jpg" width="30px">  Membro di DE COMPONENDIS CIFRIS, comunità crittografica Italiana. 
+ 
  [![CIFIS](https://img.shields.io/badge/Componedis-de_Cifris-blue?style=flat-square&logo=when-i-work&logoColor=white)](http://www.decifris.it/)
  
-<img src="https://the-eye.eu/public/.css/Eye_of_Providence.png" width="25px"> membro di THE-EYE, piattaforma no-prfit guidata dalla comunita' dedicata alla archivazione e preservazione a lungo termine di tutti i dati inclusi sitiweb, libri,  giochi, software, video, audio e idee. [![EYE](https://img.shields.io/badge/The-EYE-green?style=flat-square&logo=when-i-work&logoColor=white)](https://the-eye.eu/)
+<img src="https://the-eye.eu/public/.css/Eye_of_Providence.png" width="30px">  Membro di THE-EYE, piattaforma no-prfit guidata dalla comunita' dedicata alla archivazione e preservazione a lungo termine di tutti i dati inclusi sitiweb, libri,  giochi, software, video, audio e idee.
+
+[![EYE](https://img.shields.io/badge/The-EYE-red?style=flat-square&logo=when-i-work&logoColor=white)](https://the-eye.eu/)
  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lichess_Logo.svg/90px-Lichess_Logo.svg.png" width="25px">membro della squadra di Scacchi <a href="https://lichess.org/team/polito"><b>POLITO</b></a> (politecnico di torino),  <a href="https://lichess.org/team/italia-scacchi"><b>Squadra Italia</b></a> e <a href="https://lichess.org/team/alfiere-bianco"><b>Alfiere Bianco</b></a>.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lichess_Logo.svg/90px-Lichess_Logo.svg.png" width="30px">  Membro della squadra di Scacchi <a href="https://lichess.org/team/polito"><b>POLITO</b></a> (politecnico di torino), <a href="https://lichess.org/team/italia-scacchi"><b>Squadra Italia</b></a> e <a href="https://lichess.org/team/alfiere-bianco"><b>Alfiere Bianco</b></a>.
+
+[![EYE](https://img.shields.io/badge/Li-Chess-white?style=flat-square&logo=when-i-work&logoColor=black)](https://lichess.org/)
+
  
  
  </br>
