@@ -3,15 +3,15 @@
  #bio
 
  <div align="center">
- <h2> Buongiorno cari <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+ <h2><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px"></h2>
  </div>
 
 
 
  <div align="center">
 
-Siete finiti sul mio profilo github, ben fatto!. <br>
-Sono ![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-square&logo=microgenetics&logoColor=white)
+ <br>
+[Gabriele](https://img.shields.io/badge/GABRIELE-RISSO-success?style=flat-square&logo=microgenetics&logoColor=white)
 
  <br>
   Sei libero di farmi una domanda <a href="https://github.com/GabrieleRisso/GabrieleRisso/issues/new"><b>qui</b></a><br>
@@ -34,7 +34,7 @@ Sono ![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-
  Collaboratore di THE-EYE, piattaforma no-prfit guidata dalla comunita' dedicata alla archivazione e preservazione a lungo termine di tutti i dati inclusi sitiweb, libri,  giochi, software, video, audio e idee.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lichess_Logo.svg/90px-Lichess_Logo.svg.png" width="34px"> [![LICHESS](https://img.shields.io/badge/Li-Chess-white?style=flat-square&logo=when-i-work&logoColor=black)](https://lichess.org/)
- Membro della squadra di Scacchi <a href="https://lichess.org/team/polito"><b>POLITO</b></a> (politecnico di torino), <a href="https://lichess.org/team/italia-scacchi"><b>Squadra Italia</b></a> e <a href="https://lichess.org/team/alfiere-bianco"><b>Alfiere Bianco</b></a>.
+ Membro della squadra di Scacchi <a href="https://lichess.org/team/polito"><b>POLITO</b></a>, <a href="https://lichess.org/team/italia-scacchi"><b>Squadra Italia</b></a> e <a href="https://lichess.org/team/alfiere-bianco"><b>Alfiere Bianco</b></a>.
 
 <img src="https://www.comune.borgosandalmazzo.cn.it/stemma.png" width="25px"> [![BSD](https://img.shields.io/badge/Borgo-San_Dalmazzo-green?style=flat-square&logo=when-i-work&logoColor=black)](https://www.comune.borgosandalmazzo.cn.it/)
   Collaboratore del Comune di Borgo San Dalmazzo (CN) nella gestione della sala STUDIO Universitaria 
@@ -45,8 +45,17 @@ Sono ![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-
  
  
  </br>
- <i>Generatore random di barzellete! </i><br>
- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
+OpenSource enthusiast, GNU e Linux disto abuser. Nel tempo libero tengo traccia di Sofware esotici e nuove git Repo. Linux e' per coloro il cui tempo e' gratuito, meglio approfittarne ora allora!
+(Dell poweredge 1950) Backup server hoster di pagine web di amici.
+CyberSec community effort Tracker and Lawful Lab practitioner of open-source-software and knowledge. Comprendere per Compromettere e Difendere.
+Curatore del Blog no-profit&privato -LaMinacciaFantasma- in sola Lingua Italiana dove ripropongo contenuti OpSource mitigati nella loro reperibilita'. 
+Giocatore di scacchi bullet a tempo perso.
+Data Holder di Archivi Internet per THE-EYE allo scopo della archiviazione storica dei dati considerati fragili dalla community.
+
+
+
+
 
 
  [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
@@ -116,6 +125,10 @@ Sono ![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-
 
  [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
  [![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrile.risso502@gmail.com)
+ 
+ <i>Generatore random di barzellete! </i><br>
+ <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
 
  <!-- Profile View Count -->
  ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
