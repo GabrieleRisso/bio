@@ -11,7 +11,7 @@
  <div align="center">
 
  <br>
-[![Gabriele](https://img.shields.io/badge/GABRIELE-RISSO-success?style=flat-square&logo=microgenetics&logoColor=green)
+[![Gabriele](https://img.shields.io/badge/GABRIELE-RISSO-green?style=flat-square&logo=microgenetics&logoColor=black)
 
 [![HitCount](http://hits.dwyl.com/GabrieleRisso/READMEmd.svg)](http://hits.dwyl.com/GabrieleRisso/READMEmd)
 
