@@ -11,7 +11,7 @@
  <div align="center">
 
  <br>
-[![GABREIELE](https://img.shields.io/badge/GABRIELE-RISSO-critical?style=flat-square&logo=electron&logoColor=black)](https://github.com/GabrieleRisso/bio)
+![GABREIELE](https://img.shields.io/badge/GABRIELE-RISSO-green?style=flat-square)](https://github.com/GabrieleRisso/bio)
 
 [![HitCount](http://hits.dwyl.com/GabrieleRisso/READMEmd.svg)](http://hits.dwyl.com/GabrieleRisso/READMEmd)
 
@@ -63,12 +63,10 @@ Data Holder di Archivi Internet per THE-EYE allo scopo della archiviazione stori
 
 Madrelingua italiana, parolo correntemente francese (Swiss made) e Inglese. Determinato ad imparare, anche se sul lungo termine, quello che si puo' delle lingue arabe. Con gli spagnoli ci si intende.
 
-cuatore della YouTube chennel worth watching github list.
-
 Ornitologo e fotografo naturalistico per deformazione famigliare. 
 
 risorse dalle quali traggo contenuti:
-
+---------
 
 
 
@@ -91,7 +89,9 @@ Sei libero di farmi una domanda <a href="https://github.com/GabrieleRisso/Gabrie
 Il mio Setup, Dotfile e Chrome plugins:
 
 base state M1: MacBP + Archlinux + xfce4/i3-gap + Alacritty&Fish-shell + Yay + Ungoogle-chromium/Chrome-Dev + plugin&bookmarklets
+
 base state M2: MacBP + Os-ElCapitan + Zsh/Fish-shell + Brew + Chrome-Dev + plugins
+
 base state S1: LAMP-stack + Varnish // WMware + Varnish
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
