@@ -3,7 +3,7 @@
  #bio
 
  <div align="center">
- <h2><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px"></h2>
+ <h2><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="15px"></h2>
  </div>
 
 
@@ -11,7 +11,8 @@
  <div align="center">
 
  <br>
-[![Gabriele](https://img.shields.io/badge/GABRIELE-RISSO-success?style=flat-square&logo=microgenetics&logoColor=green)]
+[![Gabriele](https://img.shields.io/badge/GABRIELE-RISSO-success?style=flat-square&logo=microgenetics&logoColor=green)
+
 [![HitCount](http://hits.dwyl.com/GabrieleRisso/READMEmd.svg)](http://hits.dwyl.com/GabrieleRisso/READMEmd)
 
  <br>
