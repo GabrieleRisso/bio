@@ -11,7 +11,7 @@
  <div align="center">
 
  <br>
-[![Love](https://img.shields.io/badge/GABRIELE-RISSO-critical?style=flat-square&logo=electron&logoColor=black)](https://github.com/GabrieleRisso/bio)
+[![GABREIELE](https://img.shields.io/badge/GABRIELE-RISSO-critical?style=flat-square&logo=electron&logoColor=black)](https://github.com/GabrieleRisso/bio)
 
 [![HitCount](http://hits.dwyl.com/GabrieleRisso/READMEmd.svg)](http://hits.dwyl.com/GabrieleRisso/READMEmd)
 
@@ -32,12 +32,12 @@
  Membro di DE COMPONENDIS CIFRIS, comunità crittografica Italiana. 
  
 <img src="https://the-eye.eu/public/.css/Eye_of_Providence.png" width="30px"> [![EYE](https://img.shields.io/badge/The-EYE-red?style=flat-square&logo=when-i-work&logoColor=white)](https://the-eye.eu/)
- Collaboratore di THE-EYE, piattaforma no-prfit guidata dalla comunita' dedicata alla archivazione e preservazione a lungo termine di tutti i dati inclusi sitiweb, libri,  giochi, software, video, audio e idee.
+ Collaboratore di THE-EYE, piattaforma no-prfit guidata dalla comunita' dedicata all'archivazione e preservazione a lungo termine di dati inclusi ,ma non solo,  sitiweb, libri, software, video, audio e idee.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lichess_Logo.svg/90px-Lichess_Logo.svg.png" width="32px">  [![LICHESS](https://img.shields.io/badge/Li-Chess-white?style=flat-square&logo=when-i-work&logoColor=black)](https://lichess.org/)
  Membro della squadra di Scacchi <a href="https://lichess.org/team/polito"><b>POLITO</b></a>, <a href="https://lichess.org/team/italia-scacchi"><b>Squadra Italia</b></a> e <a href="https://lichess.org/team/alfiere-bianco"><b>Alfiere Bianco</b></a>.
 
-<img src="https://www.comune.borgosandalmazzo.cn.it/stemma.png" width="25px">  [![BSD](https://img.shields.io/badge/Borgo-San_Dalmazzo-green?style=flat-square&logo=when-i-work&logoColor=black)](https://www.comune.borgosandalmazzo.cn.it/)
+<img src="https://www.comune.borgosandalmazzo.cn.it/stemma.png" width="25px">   [![BSD](https://img.shields.io/badge/Borgo-San_Dalmazzo-green?style=flat-square&logo=when-i-work&logoColor=black)](https://www.comune.borgosandalmazzo.cn.it/)
    Collaboratore del Comune di Borgo San Dalmazzo (CN) nella gestione della sala STUDIO Universitaria 
 
 
@@ -67,7 +67,8 @@ cuatore della YouTube chennel worth watching github list.
 
 Ornitologo e fotografo naturalistico per deformazione famigliare. 
 
-risorse dalle quale 
+risorse dalle quali traggo contenuti:
+
 
 
 
@@ -99,7 +100,6 @@ base state S1: LAMP-stack + Varnish // WMware + Varnish
 [![Editor](https://img.shields.io/badge/Editor-VIM-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.vim.com/)
 [![Dotfiles](https://img.shields.io/badge/Setup_-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/br3ndonland/dotfiles)
 [![Brewfile](https://img.shields.io/badge/Apps-Brewfile-blue?style=flat-square&logo=ruby&logoColor=white)](https://github.com/br3ndonland/homebrew-brewfile)
-
 [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
 
 
@@ -146,14 +146,6 @@ base state S1: LAMP-stack + Varnish // WMware + Varnish
  
  <i>Generatore random di barzellete! </i><br>
  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-
-
- <!-- Profile View Count -->
- ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
- [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
-
- <!-- Working GIF -->
- <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
 
 
 
