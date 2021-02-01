@@ -23,24 +23,18 @@ Sono ![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-
 
  <div align="left">
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieleRisso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GabrieleRisso's Github Stats">
 
- </br>
- <img src="https://upload.wikimedia.org/wikipedia/it/thumb/2/27/Politecnico_di_Torino_-_Logo.svg/1024px-Politecnico_di_Torino_-_Logo.svg.png" width="30px">  [![POLITO](https://img.shields.io/badge/Polito-Ing_Inf-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_coorte=2021&p_sdu=37&p_cds=3) Studente presso Politecnico di Torino, laurea in Ingegneria Informatica
- 
 
+</br><img src="https://upload.wikimedia.org/wikipedia/it/thumb/2/27/Politecnico_di_Torino_-_Logo.svg/1024px-Politecnico_di_Torino_-_Logo.svg.png" width="30px">  [![POLITO](https://img.shields.io/badge/Polito-Ing_Inf-blue?style=flat-square&logo=when-i-work&logoColor=black)](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_coorte=2021&p_sdu=37&p_cds=3) Studente presso Politecnico di Torino, laurea in Ingegneria Informatica
  
- <img src="https://www.decifris.it/logo_colore.jpg" width="30px">  [![CIFIS](https://img.shields.io/badge/Componedis-de_Cifris-blue?style=flat-square&logo=when-i-work&logoColor=white)](http://www.decifris.it/)
+<img src="https://www.decifris.it/logo_colore.jpg" width="30px">  [![CIFIS](https://img.shields.io/badge/Componedis-de_Cifris-blue?style=flat-square&logo=when-i-work&logoColor=white)](http://www.decifris.it/)
  Membro di DE COMPONENDIS CIFRIS, comunità crittografica Italiana. 
  
- 
- <img src="https://the-eye.eu/public/.css/Eye_of_Providence.png" width="30px"> [![EYE](https://img.shields.io/badge/The-EYE-red?style=flat-square&logo=when-i-work&logoColor=white)](https://the-eye.eu/)
+<img src="https://the-eye.eu/public/.css/Eye_of_Providence.png" width="30px"> [![EYE](https://img.shields.io/badge/The-EYE-red?style=flat-square&logo=when-i-work&logoColor=white)](https://the-eye.eu/)
  Collaboratore di THE-EYE, piattaforma no-prfit guidata dalla comunita' dedicata alla archivazione e preservazione a lungo termine di tutti i dati inclusi sitiweb, libri,  giochi, software, video, audio e idee.
 
-
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lichess_Logo.svg/90px-Lichess_Logo.svg.png" width="34px"> [![LICHESS](https://img.shields.io/badge/Li-Chess-white?style=flat-square&logo=when-i-work&logoColor=black)](https://lichess.org/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lichess_Logo.svg/90px-Lichess_Logo.svg.png" width="34px"> [![LICHESS](https://img.shields.io/badge/Li-Chess-white?style=flat-square&logo=when-i-work&logoColor=black)](https://lichess.org/)
  Membro della squadra di Scacchi <a href="https://lichess.org/team/polito"><b>POLITO</b></a> (politecnico di torino), <a href="https://lichess.org/team/italia-scacchi"><b>Squadra Italia</b></a> e <a href="https://lichess.org/team/alfiere-bianco"><b>Alfiere Bianco</b></a>.
-
 
 <img src="https://www.comune.borgosandalmazzo.cn.it/stemma.png" width="25px"> [![BSD](https://img.shields.io/badge/Borgo-San_Dalmazzo-green?style=flat-square&logo=when-i-work&logoColor=black)](https://www.comune.borgosandalmazzo.cn.it/)
   Collaboratore del Comune di Borgo San Dalmazzo (CN) nella gestione della sala STUDIO Universitaria 
@@ -82,7 +76,7 @@ Sono ![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-
 [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
 
 
-
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieleRisso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GabrieleRisso's Github Stats">
 
 
 
