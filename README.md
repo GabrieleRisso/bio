@@ -11,7 +11,8 @@
  <div align="center">
 
  <br>
-[![POLITO](https://img.shields.io/badge/GABRIELE-RISSO-green?style=flat-square&logo=when-i-work&logoColor=black)]
+[![Love](https://img.shields.io/badge/GABRIELE-RISSO-critical?style=flat-square&logo=electron&logoColor=black)](https://github.com/GabrieleRisso/bio)
+
 [![HitCount](http://hits.dwyl.com/GabrieleRisso/READMEmd.svg)](http://hits.dwyl.com/GabrieleRisso/READMEmd)
 
  <br>
@@ -66,10 +67,7 @@ cuatore della YouTube chennel worth watching github list.
 
 Ornitologo e fotografo naturalistico per deformazione famigliare. 
 
-
-
-
-
+risorse dalle quale 
 
 
 
@@ -85,12 +83,15 @@ Sei libero di farmi una domanda <a href="https://github.com/GabrieleRisso/Gabrie
 [![Specie](https://img.shields.io/badge/Specie-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stabile-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
 [![Lavoro](https://img.shields.io/badge/Lavoro-studente_PolitecnicoDiTorino-success?style=flat-square&logo=microgenetics&logoColor=white)](https://www.polito.it/)
-[![Love](https://img.shields.io/badge/Love-scienza&tecnologia-critical?style=flat-square&logo=electron&logoColor=white)]()
-
 [![ChessStats](https://img.shields.io/badge/ChessStats-GabrieleRisso-informational?style=flat-square&logo=jekyll&logoColor=white)](https://lichess.org/@/GabrieleRisso/perf/bullet/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrieleRisso-informational?style=flat-square&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/gabriele-risso-0b1a03166)
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 
+Il mio Setup, Dotfile e Chrome plugins:
+
+base state M1: MacBP + Archlinux + xfce4/i3-gap + Alacritty&Fish-shell + Yay + Ungoogle-chromium/Chrome-Dev + plugin&bookmarklets
+base state M2: MacBP + Os-ElCapitan + Zsh/Fish-shell + Brew + Chrome-Dev + plugins
+base state S1: LAMP-stack + Varnish // WMware + Varnish
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=linux&logoColor=white)](https://wiki.archlinux.org)
