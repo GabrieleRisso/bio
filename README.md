@@ -29,15 +29,14 @@ Sono ![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-
  <img src="https://www.decifris.it/logo_colore.jpg" width="30px">  Membro di DE COMPONENDIS CIFRIS, comunità crittografica Italiana. 
  
  [![CIFIS](https://img.shields.io/badge/Componedis-de_Cifris-blue?style=flat-square&logo=when-i-work&logoColor=white)](http://www.decifris.it/)
- 
-<img src="https://the-eye.eu/public/.css/Eye_of_Providence.png" width="30px">  Membro di THE-EYE, piattaforma no-prfit guidata dalla comunita' dedicata alla archivazione e preservazione a lungo termine di tutti i dati inclusi sitiweb, libri,  giochi, software, video, audio e idee.
+ <img src="https://the-eye.eu/public/.css/Eye_of_Providence.png" width="30px">  Collaboratore di THE-EYE, piattaforma no-prfit guidata dalla comunita' dedicata alla archivazione e preservazione a lungo termine di tutti i dati inclusi sitiweb, libri,  giochi, software, video, audio e idee.
 
 [![EYE](https://img.shields.io/badge/The-EYE-red?style=flat-square&logo=when-i-work&logoColor=white)](https://the-eye.eu/)
- 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lichess_Logo.svg/90px-Lichess_Logo.svg.png" width="30px">  Membro della squadra di Scacchi <a href="https://lichess.org/team/polito"><b>POLITO</b></a> (politecnico di torino), <a href="https://lichess.org/team/italia-scacchi"><b>Squadra Italia</b></a> e <a href="https://lichess.org/team/alfiere-bianco"><b>Alfiere Bianco</b></a>.
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lichess_Logo.svg/90px-Lichess_Logo.svg.png" width="30px">  Membro della squadra di Scacchi <a href="https://lichess.org/team/polito"><b>POLITO</b></a> (politecnico di torino), <a href="https://lichess.org/team/italia-scacchi"><b>Squadra Italia</b></a> e <a href="https://lichess.org/team/alfiere-bianco"><b>Alfiere Bianco</b></a>.
 
 [![EYE](https://img.shields.io/badge/Li-Chess-white?style=flat-square&logo=when-i-work&logoColor=black)](https://lichess.org/)
 
+<img src="https://www.comune.borgosandalmazzo.cn.it/stemma.png" width="26px">   Collaboratore del Comune di Borgo San Dalmazzo (CN) nella gestione della sala STUDIO Universitaria 
  
  
  </br>
