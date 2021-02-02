@@ -12,7 +12,7 @@
 
  <br>
  
-[![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-square&logo=mailchimp&logoColor=white)](https://github.com/GabrieleRisso/bio)
+[![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-square&logo=mailchimp&logoColor=black)](https://github.com/GabrieleRisso/bio)
 
 [![HitCount](http://hits.dwyl.com/GabrieleRisso/READMEmd.svg)](http://hits.dwyl.com/GabrieleRisso/READMEmd)
 
@@ -116,7 +116,10 @@ base state S1: LAMP-stack + Varnish // WMware + Varnish
 
 
 
- [![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrile.risso502@gmail.com)
+
+
+
+ [![Gmail](https://img.shields.io/badge/-GabrieleRisso-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrile.risso502@gmail.com)
  
  <i>Generatore random di barzellete! </i><br>
  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
