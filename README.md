@@ -48,7 +48,7 @@
  
  </br>
 
-OpenSource enthusiast, GNU e Linux disto abuser. Nel tempo libero tengo traccia di Sofware esotici e nuove git Repo. Linux e' per coloro il cui tempo e' gratuito, meglio approfittarne ora allora! [![Gabriele](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+OpenSource enthusiast, GNU e Linux disto abuser. Nel tempo libero tengo traccia di Sofware esotici e nuove git Repo. Linux e' per coloro il cui tempo e' gratuito, meglio approfittarne ora allora! 
 
 (Dell poweredge 1950) Backup server hoster di pagine web per conto di amici, fiero possessore di tre macchine dotate VMs, casa di hard-core Linux distors.
 
@@ -79,9 +79,11 @@ Ornitologo e fotografo naturalistico per deformazione famigliare.
 
 
 
+![Specie](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) :
+
 Sei libero di farmi una domanda <a href="https://github.com/GabrieleRisso/GabrieleRisso/issues/new"><b>qui</b></a><br> 
 oppure tramite <a href="mailto:gabriele.risso502@gmail.com"><b>email</b></a>
- ![Specie](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+ 
 
 
 [![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
@@ -104,7 +106,11 @@ base state S1: LAMP-stack + Varnish // WMware + Varnish
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=linux&logoColor=white)](https://wiki.archlinux.org)
 
+
+
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieleRisso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GabrieleRisso's Github Stats">
+ 
+ 
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
