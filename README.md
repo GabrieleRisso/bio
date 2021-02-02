@@ -54,9 +54,11 @@ OpenSource enthusiast, GNU e Linux disto abuser. Nel tempo libero tengo traccia 
 
 CyberSec community effort Tracker and Lawful Lab practitioner of open-source-software and knowledge. Comprendere per Compromettere e Difendere.
 
-XDA developer dal 2013, Andorid beta-tester di costum-Rom, experimental-Kernel e Recovery per Google Nexus&Pixel legacy phones. [![Gabriele](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-[![Gabriele](https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=black)
-Curatore del Blog no-profit&privato -LaMinacciaFantasma- ,in sola Lingua Italiana e senza retorica, dove ripropongo contenuti OpSource mitigati nella loro reperibilita'. [![Gabriele](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+XDA developer dal 2013, Andorid beta-tester di costum-Rom, experimental-Kernel e Recovery per Google Nexus&Pixel legacy phones.
+![Gabriele](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Gabriele](https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=black)
+
+Curatore del Blog no-profit&privato -LaMinacciaFantasma- ,in sola Lingua Italiana e senza retorica, dove ripropongo contenuti OpSource mitigati nella loro reperibilita'. ![Gabriele](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
 Curatore della lista degli audio-libri liberi in italiano e promotore di dell'Alta cultura letteraria nell'Italia digitale.
 
@@ -76,8 +78,11 @@ Ornitologo e fotografo naturalistico per deformazione famigliare.
 
 
 
-Sei libero di farmi una domanda <a href="https://github.com/GabrieleRisso/GabrieleRisso/issues/new"><b>qui</b></a><br> https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
- oppure tramite <a href="mailto:gabriele.risso502@gmail.com"><b>email</b></a>
+
+Sei libero di farmi una domanda <a href="https://github.com/GabrieleRisso/GabrieleRisso/issues/new"><b>qui</b></a><br> 
+oppure tramite <a href="mailto:gabriele.risso502@gmail.com"><b>email</b></a>
+ ![Specie](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+
 
 [![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
@@ -98,8 +103,6 @@ base state S1: LAMP-stack + Varnish // WMware + Varnish
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=linux&logoColor=white)](https://wiki.archlinux.org)
-[![Gabriele](https://img.shields.io/badge/Apple-MacBook_Pro_2013-999999?style=for-the-badge&logo=apple&logoColor=white)
-[![Gabriele](https://img.shields.io/badge/Intel-Core_i7_3th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieleRisso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GabrieleRisso's Github Stats">
 
@@ -125,17 +128,17 @@ base state S1: LAMP-stack + Varnish // WMware + Varnish
  
  SKILLSET:
  
- [![Gabriele](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- [![Gabriele](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- [![Gabriele](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
- [![Gabriele](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- [![Gabriele](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+ ![Gabriele](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+ ![Gabriele](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![Gabriele](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+ ![Gabriele](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![Gabriele](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
  
  LEARNING:
  
- [![Gabriele](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
- [![Gabriele](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
- [![Gabriele](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+ ![Gabriele](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+ ![Gabriele](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+ ![Gabriele](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
  
  
@@ -143,6 +146,6 @@ base state S1: LAMP-stack + Varnish // WMware + Varnish
  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 
-[![Gabriele](http://ForTheBadge.com/images/badges/built-with-swag.svg)
+![Gabriele](http://ForTheBadge.com/images/badges/built-with-swag.svg)
 
   
