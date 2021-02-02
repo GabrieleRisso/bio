@@ -50,7 +50,7 @@
 
 OpenSource enthusiast, GNU e Linux disto abuser. Nel tempo libero tengo traccia di Sofware esotici e nuove git Repo. Linux e' per coloro il cui tempo e' gratuito, meglio approfittarne ora allora! 
 
-(Dell poweredge 1950) Backup server hoster di pagine web per conto di amici, fiero possessore di tre macchine dotate VMs, casa di hard-core Linux distors.
+(Dell poweredge 1950) Backup server hoster di pagine web per conto di amici.
 
 CyberSec community effort Tracker and Lawful Lab practitioner of open-source-software and knowledge. Comprendere per Compromettere e Difendere.
 
@@ -60,13 +60,13 @@ XDA developer dal 2013, Andorid beta-tester di costum-Rom, experimental-Kernel e
 
 Curatore del Blog no-profit&privato -LaMinacciaFantasma- ,in sola Lingua Italiana e senza retorica, dove ripropongo contenuti OpSource mitigati nella loro reperibilita'. ![Gabriele](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
-Curatore della lista degli audio-libri liberi in italiano e promotore di dell'Alta cultura letteraria nell'Italia digitale.
+Curatore della lista degli audio-libri liberi in italiano e promotore dell'Alta cultura letteraria nell'Italia digitale.
 
 Giocatore di scacchi bullet a tempo perso per fare Cardio. target: 10.000 partite.
 
 Data Holder di Archivi Internet per THE-EYE allo scopo della archiviazione storica dei dati considerati fragili dalla community.
 
-Madrelingua italiana, parolo correntemente francese (Swiss made) e Inglese. Determinato ad imparare, anche se sul lungo termine, quello che si puo' delle lingue arabe. Con gli spagnoli ci si intende.
+Madrelingua italiana, parlo correntemente francese (Swiss made) e Inglese. Determinato ad imparare, anche se sul lungo termine, quello che si puo' delle lingue arabe. Con gli spagnoli ci si intende.
 
 Ornitologo e fotografo naturalistico per deformazione famigliare. 
 
