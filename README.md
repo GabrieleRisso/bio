@@ -3,7 +3,7 @@
  #bio
 
  <div align="center">
- <h2><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="15px"></h2>
+ <h2><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px"></h2>
  </div>
 
 
@@ -11,7 +11,8 @@
  <div align="center">
 
  <br>
-[![Specie](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-square&logo=mailchimp&logoColor=black)](https://github.com/GabrieleRisso/bio)
+ 
+[![Gabriele](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-square&logo=mailchimp&logoColor=white)](https://github.com/GabrieleRisso/bio)
 
 [![HitCount](http://hits.dwyl.com/GabrieleRisso/READMEmd.svg)](http://hits.dwyl.com/GabrieleRisso/READMEmd)
 
@@ -85,7 +86,7 @@ Sei libero di farmi una domanda <a href="https://github.com/GabrieleRisso/Gabrie
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrieleRisso-informational?style=flat-square&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/gabriele-risso-0b1a03166)
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 
-### Linguaggi e Strumenti: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+### Linguaggi e Strumenti: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 base state M1: MacBP + Archlinux + xfce4/i3-gap + Alacritty&Fish-shell + Yay + Sublime + Ungoogle-chromium/Chrome-Dev + plugin&bookmarklets
 
@@ -113,7 +114,6 @@ base state S1: LAMP-stack + Varnish // WMware + Varnish
 
 
 
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
 
 
  [![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrile.risso502@gmail.com)
