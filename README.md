@@ -11,7 +11,7 @@
  <div align="center">
 
  <br>
-![GABREIELE](https://img.shields.io/badge/GABRIELE-RISSO-green?style=flat-square)](https://github.com/GabrieleRisso/bio)
+[![Specie](https://img.shields.io/badge/Gabriele-Risso-success?style=flat-square&logo=mailchimp&logoColor=black)](https://github.com/GabrieleRisso/bio)
 
 [![HitCount](http://hits.dwyl.com/GabrieleRisso/READMEmd.svg)](http://hits.dwyl.com/GabrieleRisso/READMEmd)
 
