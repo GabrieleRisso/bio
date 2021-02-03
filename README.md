@@ -1,8 +1,4 @@
-
-
- #bio
-
- <div align="center">
+<div align="center">
  <h2><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px"></h2>
  </div>
 
