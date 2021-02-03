@@ -56,7 +56,8 @@ XDA developer dal 2013, Andorid beta-tester di costum-Rom, experimental-Kernel e
 
 Curatore del Blog no-profit&privato -LaMinacciaFantasma- ,in sola Lingua Italiana e senza retorica, dove ripropongo contenuti OpSource mitigati nella loro reperibilita'. ![Gabriele](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
-Curatore della lista degli audio-libri liberi in italiano e promotore dell'Alta cultura letteraria nell'Italia digitale.
+Curatore della lista degli audio-libri liberi in italiano e promotore dell'Alta cultura letteraria nell'Italia digitale. 
+[![LIBRI](https://img.shields.io/badge/AudioLibri-informational?style=flat-square&)](https://github.com/GabrieleRisso/AudioBook-ITA-list/blob/main/README.md)
 
 Giocatore di scacchi bullet a tempo perso per fare Cardio. target: 10.000 partite.
 
